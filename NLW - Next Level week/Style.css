@@ -1,7 +1,7 @@
 
 :root {
     /* Variaveis*/
-    --color-background: #31319c;
+    --color-background: #ffffffe8;
     --color-primary-lighter: #9871F5;
     --color-primary-light: #916BEA;
     --color-primary: #8257E5;
@@ -26,16 +26,16 @@
 }
 
 * {
-    margin: 0;
-    padding: 0;
+    margin: 0; /*Margem*/
+    padding: 0; /*Preenchimento*/
     box-sizing: border-box;
 }
 body {
     height: 100vh;
-    background-color: var(--color-background);
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    background-color: var(--color-background);/*Cor de fundo*/
+    display: flex; /*Exibição*/
+    align-items: center; /*Alinha toda a exibição*/
+    justify-content: center; 
     
 }
 
@@ -46,11 +46,11 @@ textarea{
     /*font: 500 1.6rem Poppins;*/
     font-weight: 500;
     font-family: Poppins;
-    font-size: 1.6rem;
-    color: var(--color-vermelha)
+    font-size: 1.6rem; /*Tamanho do texto*/
+    color: var(--color-primary) /*Cores do texto*/
 }
 #container {
-    width: 90vw;
-    max-width: 700px;
-    border: 1px solid rgb(255, 255, 255);
+    width: 90vw; /*Largura da caixa*/
+    max-width: 700px; /*Largura maxima*/
+    border: 1px solid rgb(255, 255, 255); /*Bordas*/
 }
