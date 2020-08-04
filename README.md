@@ -1,5 +1,5 @@
 # Aplicacao-NLW(NEXT LEVEL WEEK)
- Aplicação produzida no evento de uma semana da NLW(Rocketseat)
+ Aplicação produzida no evento de uma semana da NLW gereciada pela [Rocketseat](https://rocketseat.com.br/)
 
 O que é a Next Level Week?
 
