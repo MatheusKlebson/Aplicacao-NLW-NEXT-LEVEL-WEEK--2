@@ -1,7 +1,7 @@
 
 :root {
     /* Variaveis*/
-    --color-background: #ffffffe8;
+    --color-background: #e43c3ce8;
     --color-primary-lighter: #9871F5;
     --color-primary-light: #916BEA;
     --color-primary: #8257E5;
@@ -47,10 +47,16 @@ textarea{
     font-weight: 500;
     font-family: Poppins;
     font-size: 1.6rem; /*Tamanho do texto*/
-    color: var(--color-primary) /*Cores do texto*/
+    color: var(--color-vermelha) /*Cores do texto*/
 }
 #container {
     width: 90vw; /*Largura da caixa*/
     max-width: 700px; /*Largura maxima*/
-    border: 1px solid rgb(255, 255, 255); /*Bordas*/
+    /*border: 1px solid rgb(255, 255, 255); /*Bordas*/
+}
+
+@media (min-width:700px){
+    :root{
+        font-size: 62.5%; /*todo 1rem vai ser relativo a 10px*/
+    }
 }
