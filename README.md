@@ -7,7 +7,7 @@ A NLW(Next Level Week) é uma semana prática com muito código, desafios, redes
 
 CADA DIA DO EVENTO:
 - [x] Dia 1: Acelerando sua evolução - 03/08/2020 
-- [ ] Dia 2: Olhando para as oportunidades - 04/08/2020 
+- [x] Dia 2: Olhando para as oportunidades - 04/08/2020 
 - [ ] Dia 3: A escolha da Stack - 05/08/2020 
 - [ ] Dia 4: Até 2 anos em 2 meses - 06/06/2020 
 - [ ] Dia 5: Milha extra - 07/06/2020 
