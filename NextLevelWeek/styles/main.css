@@ -4,19 +4,19 @@
     --color-background: #ffffffe8;
     --color-primary-lighter: #9871F5;
     --color-primary-light: #916BEA;
-    --color-primary: #5e25e260;
+    --color-primary: #9c75f7f8;
     --color-primary-dark: #774DD6;
     --color-primary-darker: #6842c2;
     --color-secondary: #04D361;
     --color-secondary-dark: #136639;
     --color-title-in-primary: #ffffff;
-    --color-text-in-primary: #b12fec;
+    --color-text-in-primary: #D4C2FF;
     --color-text-title: #32264D;
     --color-text-complement: #9C98A6;
     --color-text-base: #6A6180;
     --color-line-in-white: #E6E6F0;
     --color-input-background: #F8F8FC;
-    --color-button-text: #FFFFFF;
+    --color-button-text: #ffffff;
     --color-box-base: #FFFFFF;
     --color-box-footer: #FAFAFC;
     --color-small-info: #C1BCCC;
@@ -47,7 +47,7 @@ textarea{
     font-weight: 500;
     font-family: Poppins;
     font-size: 1.6rem; /*Tamanho do texto*/
-    color: var(--color-vermelha) /*Cores do texto*/
+    color: var(--color-text-base) /*Cores do texto*/
 }
 #container {
     width: 90vw; /*Largura da caixa*/
