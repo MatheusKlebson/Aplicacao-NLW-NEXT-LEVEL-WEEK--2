@@ -30,4 +30,4 @@ TECNOLOGIA USADAS NO FRONT-END DA APLICAÇÃO:
  Linguagem de Programação:
  * [JAVASCRIPT](https://www.javascript.com/)
  
- OBS:No Quarto dia da NLW aconteceu um imprevisto e tive que formatar meu computador o que me deixou impossibilitado de fazer o back-end(Construido no quarto e quinto dia de NLW) da aplicação, porém foi uma experiencia incrivel e eu pretendo guardar  bem esse projeto front-end que foi minha primeira aplicação desenvolvida.
+ OBS:No Quarto dia da NLW aconteceu um imprevisto e tive que formatar meu computador o que me deixou impossibilitado de fazer o back-end(Construido no quarto e quinto dia da NLW) da aplicação, porém foi uma experiencia incrivel e eu pretendo guardar  bem esse projeto front-end que foi minha primeira aplicação desenvolvida.
