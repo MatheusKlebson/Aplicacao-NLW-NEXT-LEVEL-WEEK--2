@@ -13,7 +13,10 @@ CADA DIA DO EVENTO:
 - [x] Dia 5: Milha extra - 07/06/2020 
 
 APLICAÇÃO DESENVOLVIDA:
- Nome da aplicação: Proffy Web
+
+![Interface da aplicação](file:///home/matheus/%C3%81rea%20de%20Trabalho/Captura%20de%20tela%20de%202020-08-11%2022-15-35.png)
+
+Nome da aplicação: Proffy Web
  
  Descrição: A Proffy Web é uma plataforma de estudo online, para professores e alunos onde encontramos as opções:
  * Dar aulas (Professores)
