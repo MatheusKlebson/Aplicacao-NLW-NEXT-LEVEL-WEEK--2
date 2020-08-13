@@ -14,7 +14,7 @@ CADA DIA DO EVENTO:
 
 APLICAÇÃO DESENVOLVIDA:
 
-![Interface da aplicação](file:///home/matheus/%C3%81rea%20de%20Trabalho/Captura%20de%20tela%20de%202020-08-11%2022-15-35.png)
+![Interface da aplicação](file:///home/matheus/%C3%81rea%20de%20Trabalho/Captura%20de%20tela%20de%202020-08-11%2022-15-35%20(c%C3%B3pia).png)
 
 Nome da aplicação: Proffy Web
  
