@@ -12,20 +12,21 @@ CADA DIA DO EVENTO:
 - [x] Dia 4: Até 2 anos em 2 meses - 06/06/2020 
 - [x] Dia 5: Milha extra - 07/06/2020 
 
-APLICAÇÃO DESENVOLVIDA:
- Nome da aplicação: Proffy Web
- 
- Descrição: A Proffy Web é uma plataforma de estudo online, para professores e alunos onde encontramos as opções:
- * Dar aulas (Professores)
- * Estudar (Alunos)
- 
- Essa plataforma é simples e perfeita para quem está buscando conhecimento ou querendo ganhar uma renda enquanto transmiti seu conhecimento, visto que estamos vivendo em época de Pandemia estudar de forma online é uma excelente saida para não perder a produtividade e avançar para o proximo nivel em seus conhecimentos.
- 
+Design da aplicação:
+
 * [Layout do projeto](https://www.figma.com/file/B6TA9WE1h6TkTvagPdOTp5/Proffy-Web-(Copy)?node-id=0%3A1)
 
+Nome da aplicação: Proffy Web
+ 
+Rápida descrição: A Proffy Web é uma plataforma de estudo online, para professores e alunos
+ 
 TECNOLOGIA USADAS NO FRONT-END DA APLICAÇÃO:
+
 *  HTML
 *  CSS
  
- Linguagem de Programação:
- * [JAVASCRIPT](https://www.javascript.com/)
+Linguagem de Programação:
+
+* [JAVASCRIPT](https://www.javascript.com/)
+ 
+ 
